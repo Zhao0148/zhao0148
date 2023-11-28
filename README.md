@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Wallace Zhao</h1>
 <h3 align="center">First-year student in the MADD program at Algonquin College</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zhao0148&label=Profile%20views&color=0e75b6&style=flat" alt="zhao0148" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zhao0148" alt="zhao0148" /></a> </p>
-
 - 👯 I’m looking to collaborate on **Web Designs**
 
 - 🤝 I’m looking for help with **Cache storage**
 
 - 💬 Ask me about **Lightroom, Photoshop**
 
-- 📫 How to reach me **zhao0148@algonquinlive.com**
+- 📫 How to reach me: **zhao0148@algonquinlive.com**
 
 - ⚡ Fun fact **I can do a headstand**
 
