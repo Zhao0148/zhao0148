@@ -8,7 +8,6 @@
 - 📫 How to reach me: **zhao0148@algonquinlive.com**
 
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
