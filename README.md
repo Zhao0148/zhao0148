@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Wallace Zhao</h1>
 <h3 align="center">First-year student in the MADD program at Algonquin College</h3>
 
-- 👯 I’m looking to collaborate on **Web Designs**
+- 👯 I’m looking to collaborate on **LLM**
 
-- 🤝 I’m looking for help with **Cache storage**
-
-- 💬 Ask me about **Lightroom, Photoshop**
+- 💬 I'm working on: **Multimodal AI assistants**
 
 - 📫 How to reach me: **zhao0148@algonquinlive.com**
 
-- ⚡ Fun fact **I can do a headstand**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
