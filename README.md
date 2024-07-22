@@ -82,10 +82,10 @@
 ## Connect with me  
 <div align="center">
 
-<a href="[https://gitlab.com/WzX](https://github.com/Zhao0148)" target="_blank">
+<a href="https://discord.com/users/133687684513136640" target="_blank">
 <img src=https://skillicons.dev/icons?i=discord alt=gitlab />
 </a>  
-<a href="https://discord.com/users/133687684513136640" target="_blank">
+<a href="https://github.com/Zhao0148" target="_blank">
 <img src=https://skillicons.dev/icons?i=github alt=github  />
 </a>  
 </div>  
