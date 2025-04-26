@@ -2,7 +2,7 @@
 </div>  
   
 
-### <div align="center">👋 Hey there! I'm a second-year Mobile Application Design and Development (MADD) student at Algonquin College, I'm currently exploring the ever-expanding world of LLMs.</div>  
+### <div align="center">👋 Hey there! I'm a graduate of the Mobile Application Design and Development (MADD) program at Algonquin College, I'm currently exploring the ever-expanding world of LLMs.</div>  
   
 
 
