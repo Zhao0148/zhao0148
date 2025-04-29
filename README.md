@@ -8,15 +8,15 @@
 
 
 ### Projects  
-- 🌱 I’m currently exploring Vertex AI + RAG based integration.  
+- 🌱 I’m currently learning python.
   
 
 
 
 ### Learning Roadmap  
-- [ ] MERN stack
-- [ ] GCP
-- [ ] Built-in AI
+- [ ] Python
+- [ ] Amazon Bedrock
+- [ ] Google Agent Development
   
   
 
