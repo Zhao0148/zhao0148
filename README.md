@@ -15,6 +15,7 @@
 
 ### Learning Roadmap  
 - [ ] Python
+- [ ] Scikit-learn, pytorch
 - [ ] Amazon Bedrock
 - [ ] Google Agent Development
   
