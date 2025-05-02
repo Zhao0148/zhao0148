@@ -8,7 +8,7 @@
 
 
 ### Projects  
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently improving my python.
   
 
 
