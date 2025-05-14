@@ -134,7 +134,6 @@ I'm committed to lifelong learning. Here's what's currently on my learning agend
 *   [ ] **LLM Platforms & Tools:**
     *   [ ] Amazon Bedrock
     *   [ ] Google Agent Development
-*   [ ] **Advanced Prompt Engineering & Fine-tuning Techniques**
 
 ---
 
@@ -201,17 +200,6 @@ I'm committed to lifelong learning. Here's what's currently on my learning agend
 
 ---
 
-## 🤝 Let's Collaborate & Connect!
-
-I'm always open to discussing new projects, exploring innovative ideas in the LLM space, or collaborating on exciting ventures. Feel free to reach out!
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/wallace-zhao-813a86157/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
-  </a>   
-</div>
-
----
 
 ## 📊 My GitHub Stats
 
