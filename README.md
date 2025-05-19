@@ -26,7 +26,7 @@
     <strong>Overview:</strong> To address high patient call volumes and language barriers at Stars Orthodontics, our team developed an award-winning Progressive Web App (PWA) integrating a custom AI assistant. Recognized with a <strong>2nd Place award by Algonquin College (Applied Research Day)</strong>, the Next.js PWA empowers patients with 24/7 self-service for clinic information and appointment requests. The AI assistant, built on a Retrieval-Augmented Generation (RAG) architecture using OpenAI and Pinecone, provides reliable multilingual support (text and voice) based strictly on clinic-approved data.
   </p>
   <p>
-    <strong>My Role & Contribution (Lead AI Developer | Team of 6 | 4 Months):</strong>
+    <strong>My Role & Contribution (AI Developer | Team of 6 | 4 Months):</strong>
     <ul>
       <li>Led the AI development, architecting the end-to-end solution including frontend, backend conversational flow (Flowise), and RAG infrastructure (OpenAI, Pinecone).</li>
       <li>Implemented real-time, multilingual speech-to-speech functionality and engineered prompts for a multi-path agent router (Greeting, FAQ, Booking).</li>
