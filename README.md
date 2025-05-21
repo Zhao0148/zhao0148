@@ -30,7 +30,7 @@
     <ul>
       <li>Led the AI development, architecting the end-to-end solution including frontend, backend conversational flow (Flowise), and RAG infrastructure (OpenAI, Pinecone).</li>
       <li>Implemented real-time, multilingual speech-to-speech functionality and engineered prompts for a multi-path agent router (Greeting, FAQ, Booking).</li>
-      <li>Developed the interactive Next.js chat interface with session-based context, suggestion chips, and integrated privacy information (PIPEDA focus).</li>
+      <li>Developed the interactive Next.js chat interface with session-based context, suggestion chips, and integrated privacy information.</li>
       <li>Deployed and managed the application infrastructure using Docker on Digital Ocean, ensuring concurrency for multiple users.</li>
     </ul>
   </p>
