@@ -10,7 +10,7 @@
 
 ## What I'm Currently Up To
 
-*   Exploring the intricacies of LLMs, from foundational concepts like RAG architectures to practical applications in conversational AI.
+*   Exploring LLMs, from foundational concepts like RAG architectures to practical applications in conversational AI.
 *   Continuously refining my Python skills, focusing on libraries and techniques crucial for AI/ML development.
 *   Seeking opportunities to apply my AI development and full-stack skills to new and challenging projects.
 *   Brainstorming ideas for projects that further merge my mobile/web development background with my growing expertise in LLMs.
