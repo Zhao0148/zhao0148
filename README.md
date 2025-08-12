@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Wallace Zhao 👋</h1>
+  <h1>Hi there, I'm Wallace Zhao </h1>
 </div>
 
 <div align="center">
@@ -8,16 +8,16 @@
 
 ---
 
-## 🚀 What I'm Currently Up To
+## What I'm Currently Up To
 
-*   🧠 Exploring the intricacies of LLMs, from foundational concepts like RAG architectures to practical applications in conversational AI.
-*   🌱 Continuously refining my Python skills, focusing on libraries and techniques crucial for AI/ML development.
-*   🛠️ Seeking opportunities to apply my AI development and full-stack skills to new and challenging projects.
-*   💡 Brainstorming ideas for projects that further merge my mobile/web development background with my growing expertise in LLMs.
+*   Exploring the intricacies of LLMs, from foundational concepts like RAG architectures to practical applications in conversational AI.
+*   Continuously refining my Python skills, focusing on libraries and techniques crucial for AI/ML development.
+*   Seeking opportunities to apply my AI development and full-stack skills to new and challenging projects.
+*   Brainstorming ideas for projects that further merge my mobile/web development background with my growing expertise in LLMs.
 
 ---
 
-## ✨ Featured Projects
+## Featured Projects
 
 <details>
   <summary><strong>Stars Orthodontics AI Assistant - Award-Winning RAG AI Implementation</strong></summary>
@@ -122,7 +122,7 @@
 
 ---
 
-## 📚 My Learning Roadmap & Goals
+## My Learning Roadmap & Goals
 
 I'm committed to lifelong learning. Here's what's currently on my learning agenda:
 
@@ -137,7 +137,7 @@ I'm committed to lifelong learning. Here's what's currently on my learning agend
 
 ---
 
-## 🛠️ My Tech Stack
+## My Tech Stack
 
 <div align="center">
   <i>A collection of tools and technologies I've worked with and am growing with:</i>
@@ -201,7 +201,7 @@ I'm committed to lifelong learning. Here's what's currently on my learning agend
 ---
 
 
-## 📊 My GitHub Stats
+## My GitHub Stats
 
       
 <div align="center">
