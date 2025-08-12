@@ -124,11 +124,11 @@
 
 ## My Learning Roadmap & Goals
 
-I'm committed to lifelong learning. Here's what's currently on my learning agenda:
+Life long learner here. Here's what's currently on my learning agenda:
 
 *   [x] **Python:** Strengthening core concepts and advanced features for AI/ML.
 *   [x] **RAG Architectures:** Hands-on experience with OpenAI, Pinecone, Flowise.
-*   [ ] **Advanced Machine Learning:**
+*   [ ] **Machine Learning:**
     *   [ ] Scikit-learn
     *   [ ] PyTorch
 *   [ ] **LLM Platforms & Tools:**
